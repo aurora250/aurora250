@@ -31,6 +31,19 @@
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 October 2024 - To: 15 April 2026
+
+Total Time: 129 hrs 17 mins
+
+Python                     79 hrs 18 mins        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬛⬛⬛⬛⬛⬛⬛⬛⬛   61.34 %
+HTML                       13 hrs 11 mins        🟩🟩🟨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   10.21 %
+Assembly                   7 hrs 27 mins         🟩🟨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   05.77 %
+Markdown                   5 hrs 59 mins         🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   04.63 %
+JavaScript                 3 hrs 47 mins         🟨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   02.94 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with Me
