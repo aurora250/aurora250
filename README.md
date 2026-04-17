@@ -22,7 +22,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aurora250&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurora250&theme=tokyonight" />
 </p>
 
 ## 📊 GitHub Activity Graph
