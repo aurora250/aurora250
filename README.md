@@ -25,6 +25,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurora250&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aurora250&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
 ## 📊 GitHub Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aurora250&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
